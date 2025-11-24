@@ -66,11 +66,6 @@ const createSlideElement = (slideData) => {
     <div class="slide-title"><h1>${slideData.title}</h1></div>
     <div class="slide-description">
       <p>${slideData.description}</p>
-      <div class="slide-info">
-        <p>Type. ${slideData.type}</p>
-        <p>Field. ${slideData.field}</p>
-        <p>Date. ${slideData.date}</p>
-      </div>
     </div>
   `;
 
