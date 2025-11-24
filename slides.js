@@ -14,7 +14,7 @@ export const slides = [
   {
     title: "Nantou, Taiwan",
     description:
-      "The mountain feels so fresh up in the mountains.",
+      "The air feels so fresh up in the mountains.",
     image: "3.jpeg",
   },
   {
